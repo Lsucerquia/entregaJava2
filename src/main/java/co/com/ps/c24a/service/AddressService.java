@@ -1,7 +1,6 @@
 package co.com.ps.c24a.service;
 
 import co.com.ps.c24a.entity.Address;
-import co.com.ps.c24a.entity.Person;
 
 import java.util.List;
 import java.util.Optional;

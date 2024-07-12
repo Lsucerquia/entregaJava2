@@ -1,7 +1,5 @@
 package co.com.ps.c24a.service;
-
 import co.com.ps.c24a.entity.Address;
-import co.com.ps.c24a.entity.Person;
 import co.com.ps.c24a.repository.AddressRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
