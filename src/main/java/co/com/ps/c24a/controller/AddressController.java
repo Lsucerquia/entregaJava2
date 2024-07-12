@@ -1,7 +1,5 @@
 package co.com.ps.c24a.controller;
-
 import co.com.ps.c24a.entity.Address;
-import co.com.ps.c24a.entity.Person;
 import co.com.ps.c24a.service.AddressService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
